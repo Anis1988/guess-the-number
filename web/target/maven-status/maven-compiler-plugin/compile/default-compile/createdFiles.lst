@@ -1,0 +1,10 @@
+com/example/util/GameMappings.class
+com/example/WebMain.class
+com/example/config/WebConfig.class
+com/example/interceptor/RequestInterceptor.class
+com/example/util/AttributeNames.class
+com/example/service/GameService.class
+com/example/controller/GameController.class
+com/example/util/thymeleaf/DecoubledLogicSetup.class
+com/example/util/ViewNames.class
+com/example/service/GameServiceImp.class
